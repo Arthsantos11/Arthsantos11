@@ -1,16 +1,21 @@
-## Hi there 👋
+## Eae 👋
 
-<!--
-**Arthsantos11/Arthsantos11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arthur Cassiano Pinheiro dos Santos
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo para publicação de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo
+
+arthur.pinheiro.santos@escola.pr.gov.br
+
+@arthsantos11
+
+![](https://media.tenor.com/ZjMt0YiJYWMAAAAM/dancing-cat-dance.gif)
+
+
+
+
+
+
