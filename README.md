@@ -12,7 +12,7 @@ arthur.pinheiro.santos@escola.pr.gov.br
 
 @arthsantos11
 
-![](https://tenor.com/pt-BR/view/dancing-cat-dance-cat-cat-meme-chinese-cat-gif-7364280193643012451)
+![](https://media1.tenor.com/m/3qD2vVScav8AAAAC/emoji.gif)
 
 
 
