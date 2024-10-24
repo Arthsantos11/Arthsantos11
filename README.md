@@ -12,8 +12,9 @@ arthur.pinheiro.santos@escola.pr.gov.br
 
 @arthsantos11
 
-![](https://media1.tenor.com/m/3qD2vVScav8AAAAC/emoji.gif)
-
+![](https://media.tenor.com/kaHrQsXBaQYAAAAj/boom-cat.gif)
+![](https://media.tenor.com/xnEjLXubiEwAAAAj/oppenheimer-cat-oppie.gif)
+![](https://media.tenor.com/lCKwsD2OW1kAAAAj/happy-cat-happy-happy-cat.gif)
 
 
 
